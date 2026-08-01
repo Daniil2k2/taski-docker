@@ -75,4 +75,4 @@ jobs:
         with:
           context: ./backend/
           push: true
-          tags: ${{ secrets.DOCKER_USERNAME }}/taski_backend:latest
+          tags: daniil2k2/taski_backend:latest
